@@ -67,8 +67,9 @@ const Yuma-Tsushima = {
 <div align="left">
 <details>
   <summary><b>Github Statistics</b></summary>
-   <!--START_SECTION:Metrics-->
-   <!--END_SECTION:Metrics-->
+   
+   <a href="https://github.com/Yuma-Tsushima07/Yuma-Tsushima07">
+<img align="center" src="/github-metrics.svg" alt="Yuma's Stats">
 <br><br>
     <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuma-Tsushima07&langs_count=10&theme=dark&layout=compact" alt="Yuma-Tsushima07:: Top Langs" /></p>
   
