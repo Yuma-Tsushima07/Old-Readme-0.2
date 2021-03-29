@@ -13,6 +13,7 @@
    </body>
 
 ### Talents and Hobbies
+<p>I love to draw [been drawing all of my life], play strategy games, code and do ctf! I am also good at animation, making AMVs and image editing. My favourite game is Mindustry, followed by Flow Free and Sudoku. I love watching anime (with seriousness I love Code Geass; relate to Lelouch a lot) although I aspire to create my own anime!</p>
 
 <b> Check out my work!: </b> <br>
 ❯ Soundcloud : [0c7av3h4ck5](https://soundcloud.com/0c7av3h4ck5) <br>
