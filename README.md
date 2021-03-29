@@ -33,7 +33,7 @@
 ❯ Python101 Writeup <br>
 ❯ {CyberArtByte} Website <br>
 
-### Terminal
+### Info Summary 
 
 
 <details>
