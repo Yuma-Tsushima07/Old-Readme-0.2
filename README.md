@@ -33,6 +33,9 @@
 ❯ Python101 Writeup <br>
 ❯ {CyberArtByte} Website <br>
 
+### Terminal
+<!--START_SECTION:Terminal-->
+   <!--END_SECTION:Terminak-->
 
 
 <details>
@@ -64,7 +67,8 @@ const Yuma-Tsushima = {
 <div align="left">
 <details>
   <summary><b>Github Statistics</b></summary>
-   <img src="https://github.com/Yuma-Tsushima07/Yuma-Tsushima07/blob/master/github-metrics.svg" />
+   <!--START_SECTION:Metrics-->
+   <!--END_SECTION:Metrics-->
 <br><br>
     <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuma-Tsushima07&langs_count=10&theme=dark&layout=compact" alt="Yuma-Tsushima07:: Top Langs" /></p>
   
