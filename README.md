@@ -34,8 +34,6 @@
 ❯ {CyberArtByte} Website <br>
 
 ### Terminal
-<!--START_SECTION:Terminal-->
-   <!--END_SECTION:Terminak-->
 
 
 <details>
