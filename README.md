@@ -5,12 +5,21 @@
    
 [![Support](https://img.shields.io/badge/Support-Buy%20us%20a%20Pizza-orange.svg?style=for-the-badge&logo=patreon)](https://www.patreon.com/Order_of_the_Black_Knights_C2_bot)
 [![Discord](https://img.shields.io/badge/C2's%20Place-Join%20us%20for%20a%20chat-blue.svg?style=for-the-badge&logo=discord)](https://disboard.org/server/711260885531885648)
-   
+[![Discord](https://img.shields.io/badge/Join%20to%20chat-CyberArtByte-blue.svg?style=for-the-badge&logo=discord)](https://discord.gg/mNAWykv67W)   
 
 <body>
       <h3 style="text-align:center">About Myself</h3>
       <p>Hello, my name is Yuma-Tsushima (frequently shortened to Yuma). I am an ambitious coder, whom enjoys to code in JavaScript (mainly), also loves to make websites using HTML, CSS and (of course) JS! I started programming (self taught) at the age of 13. Orginally, came from the creative feild ; I draw/sing/animate/make music. </p>
    </body>
+
+### Talents and Hobbies
+
+<b> Check out my work!: </b> <br>
+❯ Soundcloud : [0c7av3h4ck5](https://soundcloud.com/0c7av3h4ck5) <br>
+❯ Discord : [{CyberArtByte}](https://discord.gg/mNAWykv67W)  <br>
+❯ Artwork : [YumaArts07](https://medibang.com/u/YumaArts07/) <br>
+
+
 
 
 ### Languages
