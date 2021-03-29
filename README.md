@@ -70,6 +70,11 @@ const Yuma-Tsushima = {
   
   <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Yuma-Tsushima07&show_icons=true&theme=dark" alt="Yuma-Tsushima07 :: Profile Stats" /></p>
   <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#3](https://github.com/som-cs/reddit-and-imgur/issues/3) in [som-cs/reddit-and-imgur](https://github.com/som-cs/reddit-and-imgur)
+2. ❗️ Opened issue [#2](https://github.com/som-cs/reddit-and-imgur/issues/2) in [som-cs/reddit-and-imgur](https://github.com/som-cs/reddit-and-imgur)
+3. ❗️ Opened issue [#1](https://github.com/som-cs/reddit-and-imgur/issues/1) in [som-cs/reddit-and-imgur](https://github.com/som-cs/reddit-and-imgur)
+4. ❗️ Opened issue [#1](https://github.com/som-cs/discord_ascii_master/issues/1) in [som-cs/discord_ascii_master](https://github.com/som-cs/discord_ascii_master)
+5. 🗣 Commented on [#1](https://github.com/KiraReys/kirareys/issues/1) in [KiraReys/kirareys](https://github.com/KiraReys/kirareys)
   <!--END_SECTION:activity-->
 </details>
    </div>
