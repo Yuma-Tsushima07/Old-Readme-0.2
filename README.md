@@ -2,6 +2,7 @@
       <h1 style="text-align:center">Welcome to Yuma-Tsushima's Github page!</h1>
       <p></p>
    </body>
+   
 
 <body>
       <h3 style="text-align:center">About Myself</h3>
@@ -18,6 +19,8 @@
 ❯ CSS <br>
 ❯ Git CLI <br>
 
+
+
 ### Upcoming Projects
 
 <b> Some exciting  projects: </b> <br>
@@ -27,11 +30,12 @@
 ❯ Python101 Writeup <br>
 ❯ {CyberArtByte} Website <br>
 
+
+
 <details>
-  <summary> <u><b> Random Facts </u></b> </summary>
+ <summary> <u><b> Random Facts </u></b> </summary>
   
- 
-  ```javascript
+ ```javascript
 const Yuma-Tsushima = {
     pronouns: "He" | "Him", //yes
     code: ["Javascript", "Python", "Bash", "Shell"], 
@@ -52,7 +56,7 @@ const Yuma-Tsushima = {
 ```
   </details>              
   
-  </details>
+ 
 
 <div align="left">
 <details>
@@ -64,12 +68,18 @@ const Yuma-Tsushima = {
   <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Yuma-Tsushima07&show_icons=true&theme=dark" alt="Yuma-Tsushima07 :: Profile Stats" /></p>
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
-
 </details>
    </div>
+   
+   
    
    <details>
   <summary> <u><b> Spotify </u></b> </summary>
   
 [![Spotify](https://novatorem-git-master.yuma-tsushima07.vercel.app//api/spotify)](https://open.spotify.com/user/Yuma-Tsushima07)
 </details>
+
+<details>
+  <summary> <u><b> Recommended Music </u></b> </summary>
+ <!-- YOUTUBE:START -->
+ <!-- YOUTUBE:END -->
