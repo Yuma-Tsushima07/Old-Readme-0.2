@@ -15,6 +15,15 @@
 ### Talents and Hobbies
 <p>I love to draw [been drawing all of my life], play strategy games, code and do ctf! I am also good at animation, making AMVs and image editing. My favourite game is Mindustry, followed by Flow Free and Sudoku. I love watching anime (with seriousness I love Code Geass; relate to Lelouch a lot) although I aspire to create my own anime!</p>
 
+![Drawing](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=Drawing%20|%20A*)
+![Music](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=Music%20|%20B)
+![Digital Artwork](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=Digital%20Artwork%20|%2080%)
+![ICT](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=68A063&message=ICT%20|%20A)
+![Electronics](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=61DBFB&message=Electronics%20|%20A)
+![Desgins](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=306998&message=Designs%20|%2085%)
+![Web dev](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=602C50&message=Web%20Development%20|%2080%)
+![Strategy](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=764abc&message=Strategy%20|%2095%)
+
 <b> Check out my work!: </b> <br>
 ❯ Soundcloud : [0c7av3h4ck5](https://soundcloud.com/0c7av3h4ck5) <br>
 ❯ Discord : [{CyberArtByte}](https://discord.gg/mNAWykv67W)  <br>
