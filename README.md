@@ -34,7 +34,7 @@
 ❯ Soundcloud : [0c7av3h4ck5](https://soundcloud.com/0c7av3h4ck5) <br>
 ❯ Discord : [{CyberArtByte}](https://discord.gg/mNAWykv67W)  <br>
 ❯ Artwork : [YumaArts07](https://medibang.com/u/YumaArts07/) <br>
-<img src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1234616596&color=%23eb2653&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true%22%3E" alt="soundcloud" width="40" height="40"/>
+
 
 ### Languages
 
