@@ -3,6 +3,11 @@
       <p></p>
    </body>
    
+   <p align="center"> 
+  <b>Visitor count </b><br>
+  <img src="https://profile-counter.glitch.me/Yuma-Tsushima07/count.svg" />
+</p>
+   
 [![Support](https://img.shields.io/badge/Support-Buy%20us%20a%20Pizza-orange.svg?style=for-the-badge&logo=patreon)](https://www.patreon.com/Order_of_the_Black_Knights_C2_bot)
 [![Discord](https://img.shields.io/badge/C2's%20Place-Join%20us%20for%20a%20chat-blue.svg?style=for-the-badge&logo=discord)](https://disboard.org/server/711260885531885648)
 [![Discord](https://img.shields.io/badge/Join%20to%20chat-CyberArtByte-blue.svg?style=for-the-badge&logo=discord)](https://discord.gg/mNAWykv67W)   
