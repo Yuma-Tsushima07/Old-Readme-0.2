@@ -7,6 +7,7 @@
   <b>Visitor count </b><br>
   <img src="https://profile-counter.glitch.me/Yuma-Tsushima07/count.svg" /
        </p>
+ 
 
    
 [![Support](https://img.shields.io/badge/Support-Buy%20us%20a%20Pizza-orange.svg?style=for-the-badge&logo=patreon)](https://www.patreon.com/Order_of_the_Black_Knights_C2_bot)
@@ -15,6 +16,7 @@
 [![SoundCloud](https://img.shields.io/badge/Sound-Cloud-red.svg?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/0c7av3h4ck5)
 
 ---
+<img src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/terminalpython.png">
 
 <body>
       <h3 style="text-align:center">About Myself</h3>
