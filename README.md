@@ -3,20 +3,25 @@
       <p></p>
    </body>
    
-   <p align="center"> 
+  <p align="center"> 
   <b>Visitor count </b><br>
-  <img src="https://profile-counter.glitch.me/Yuma-Tsushima07/count.svg" />
-</p>
+  <img src="https://profile-counter.glitch.me/Yuma-Tsushima07/count.svg" /
+       </p>
+
    
 [![Support](https://img.shields.io/badge/Support-Buy%20us%20a%20Pizza-orange.svg?style=for-the-badge&logo=patreon)](https://www.patreon.com/Order_of_the_Black_Knights_C2_bot)
 [![Discord](https://img.shields.io/badge/C2's%20Place-Join%20us%20for%20a%20chat-blue.svg?style=for-the-badge&logo=discord)](https://disboard.org/server/711260885531885648)
 [![Discord](https://img.shields.io/badge/Join%20to%20chat-CyberArtByte-blue.svg?style=for-the-badge&logo=discord)](https://discord.gg/mNAWykv67W)
 [![SoundCloud](https://img.shields.io/badge/Sound-Cloud-red.svg?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/0c7av3h4ck5)
 
+---
+
 <body>
       <h3 style="text-align:center">About Myself</h3>
       <p>Hello, my name is Yuma-Tsushima (frequently shortened to Yuma). I am an ambitious coder, whom enjoys to code in JavaScript (mainly), also loves to make websites using HTML, CSS and (of course) JS! I started programming (self taught) at the age of 13. Orginally, came from the creative feild ; I draw/sing/animate/make music. </p>
    </body>
+   
+   ---
 
 ### Talents and Hobbies
 <p>I love to draw [been drawing all of my life], play strategy games, code and do ctf! I am also good at animation, making AMVs and image editing. My favourite game is Mindustry, followed by Flow Free and Sudoku. I love watching anime (with seriousness I love Code Geass; relate to Lelouch a lot) although I aspire to create my own anime!</p>
@@ -34,6 +39,8 @@
 ❯ Soundcloud : [0c7av3h4ck5](https://soundcloud.com/0c7av3h4ck5) <br>
 ❯ Discord : [{CyberArtByte}](https://discord.gg/mNAWykv67W)  <br>
 ❯ Artwork : [YumaArts07](https://medibang.com/u/YumaArts07/) <br>
+
+---
 
 
 ### Languages
@@ -53,8 +60,12 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="css" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="css" width="40" height="40"/>
 
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yuma-Tsushima07&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuma-Tsushima07&theme=dark" />
+</p>
 
-
+---
 
 ### Upcoming Projects
 
@@ -64,6 +75,8 @@
 ❯ Hacker101 Writeup <br>
 ❯ Python101 Writeup <br>
 ❯ {CyberArtByte} Website <br>
+
+---
 
 ### Info Summary 
 
@@ -92,6 +105,7 @@ const Yuma-Tsushima = {
 ```
   </details>              
   
+
  
 
 <div align="left">
@@ -101,9 +115,7 @@ const Yuma-Tsushima = {
    <a href="https://github.com/Yuma-Tsushima07/Yuma-Tsushima07">
 <img align="center" src="/github-metrics.svg" alt="Yuma's Stats">
 <br><br>
-    <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuma-Tsushima07&langs_count=10&theme=dark&layout=compact" alt="Yuma-Tsushima07:: Top Langs" /></p>
-  
-  <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Yuma-Tsushima07&show_icons=true&theme=dark" alt="Yuma-Tsushima07 :: Profile Stats" /></p>
+   
   
   <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#3](https://github.com/som-cs/reddit-and-imgur/issues/3) in [som-cs/reddit-and-imgur](https://github.com/som-cs/reddit-and-imgur)
