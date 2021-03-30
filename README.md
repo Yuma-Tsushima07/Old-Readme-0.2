@@ -26,7 +26,7 @@
    ---
 
 ### Talents and Hobbies
-<p>I love to draw [been drawing all of my life], play strategy games, code and do ctf! I am also good at animation, making AMVs and image editing. My favourite game is Mindustry, followed by Flow Free and Sudoku. I love watching anime (with seriousness I love Code Geass; relate to Lelouch a lot) although I aspire to create my own anime!</p>
+<p>I love to draw [been drawing all of my life], play strategy games, code and do ctfs! I am also good at animation, making AMVs and image editing. My favourite game is Mindustry, followed by Flow Free and Sudoku. I love watching anime (with seriousness I love Code Geass; relate to Lelouch a lot) although I aspire to create my own anime!</p>
 
 ![Drawing](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=Drawing%20|%20A*)
 ![Music](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=Music%20|%20B)
