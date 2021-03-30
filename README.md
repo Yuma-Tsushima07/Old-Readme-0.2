@@ -16,7 +16,7 @@
 [![SoundCloud](https://img.shields.io/badge/Sound-Cloud-red.svg?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/0c7av3h4ck5)
 
 ---
-<img src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/terminalpython.png">
+<img src="https://github.com/Yuma-Tsushima07/Yuma-Tsushima07/blob/main/assets/terminalpython.png">
 
 <body>
       <h3 style="text-align:center">About Myself</h3>
