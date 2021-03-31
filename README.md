@@ -81,6 +81,7 @@
 ---
 
 ### Info Summary 
+<p> Click on the dropdown arrows to find out more! </p>
 
 
 <details>
