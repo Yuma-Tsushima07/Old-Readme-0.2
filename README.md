@@ -20,13 +20,13 @@
 
 <body>
       <h3 style="text-align:center">About Myself</h3>
-      <p>Hello, my name is Yuma-Tsushima (frequently shortened to Yuma). I am an ambitious coder, whom enjoys to code in JavaScript (mainly), also loves to make websites using HTML, CSS and (of course) JS! I started programming (self taught) at the age of 13. Orginally, came from the creative feild ; I draw/sing/animate/make music. </p>
+      <p>Hello, my name is Yuma-Tsushima (frequently shortened to Yuma). I am an ambitious coder, and I enjoy coding in JavaScript (mainly). I also love making websites using HTML, CSS and (of course) JS! I started programming (self taught) at the age of 13. Originally, I came from the creative field ; I draw/sing/animate/make music.  </p>
    </body>
    
    ---
 
 ### Talents and Hobbies
-<p>I love to draw [been drawing all of my life], play strategy games, code and do ctfs! I am also good at animation, making AMVs and image editing. My favourite game is Mindustry, followed by Flow Free and Sudoku. I love watching anime (with seriousness I love Code Geass; relate to Lelouch a lot) although I aspire to create my own anime!</p>
+<p>I love drawing (I have been drawing all of my life). I play strategy games, I code and I do CTFs! I am also good at animation, making AMVs and image editing. My favourite game is Mindustry, followed by Flow Free and Sudoku. I love watching anime (I love Code Geass - I relate to Lelouch a lot) and I aspire to create my own anime!</p>
 
 ![Drawing](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=Drawing%20|%20A*)
 ![Music](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=Music%20|%20B)
