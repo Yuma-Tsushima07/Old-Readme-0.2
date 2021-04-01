@@ -143,7 +143,7 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
-- [Panty & Stocking - "Fallen Angel" | AmaLee Ver (feat. Lollia)](https://www.youtube.com/watch?v=zxECJgdK7t0)
+- [Panty & Stocking - "Fallen Angel" | AmaLee Ver (feat. Lollia & RichaadEB)](https://www.youtube.com/watch?v=zxECJgdK7t0)
 - [Tokyo Ghoul - "Glassy Sky" REMIX | AmaLee Ver](https://www.youtube.com/watch?v=MSYt0v0Ny40)
 - [Super Smash Bros x Persona 5 - "Lifelight" (Joker REMIX) | AmaLee](https://www.youtube.com/watch?v=ImiDLaTkfEk)
 - [Sword Art Online - "Crossing Field" (REMIX) | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=76CekQ69vn4)
