@@ -1400,7 +1400,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                                     </svg>
-                                    Updated 27 days ago
+                                    Updated 28 days ago
                                 </div>
                             </section>
                         </div>
@@ -2672,7 +2672,7 @@
                                             k4yt3x/video2x
                                         </span>
                                         <span>
-                                            starred 3 days ago
+                                            starred 4 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -3437,7 +3437,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.8851716097475983 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.896430529394984 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3593,7 +3593,7 @@
                     These metrics include private contributions, timezone Europe/London
                 </span>
                 <span>
-                    Last updated Wed, 14 Apr 2021 16:16:21 GMT with lowlighter/metrics@3.6.0
+                    Last updated Wed, 14 Apr 2021 17:32:43 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
