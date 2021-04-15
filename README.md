@@ -143,7 +143,7 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
-- [Aldnoah.Zero - "aLIEz" REMIX | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=piyqqHeS9-8)
+- [Aldnoah.Zero - "aLIEz" REMIX | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=f4lvibJnJiA)
 - [Evangelion 3.0+1.0 - "One Last Kiss" | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=Z5_p6ZnEfLE)
 - [Panty & Stocking - "Fallen Angel" | AmaLee Ver (feat. Lollia & RichaadEB)](https://www.youtube.com/watch?v=zxECJgdK7t0)
 - [Tokyo Ghoul - "Glassy Sky" REMIX | AmaLee Ver](https://www.youtube.com/watch?v=MSYt0v0Ny40)
