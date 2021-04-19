@@ -77,6 +77,9 @@
 ❯ Hacker101 Writeup <br>
 ❯ Python101 Writeup <br>
 ❯ {CyberArtByte} Website <br>
+❯ Writeup Blogs <br>
+❯ Board Games <br>
+❯ Game Development <br>
 
 ---
 
