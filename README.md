@@ -42,6 +42,10 @@
 ❯ Discord : [{CyberArtByte}](https://discord.gg/mNAWykv67W)  <br>
 ❯ Artwork : [YumaArts07](https://medibang.com/u/YumaArts07/) <br>
 
+<p align="center">
+  <img src="test.gif" />
+</p>
+
 ---
 
 
@@ -152,3 +156,6 @@ const Yuma-Tsushima = {
 - [Tokyo Ghoul - "Glassy Sky" REMIX | AmaLee Ver](https://www.youtube.com/watch?v=MSYt0v0Ny40)
 - [Super Smash Bros x Persona 5 - "Lifelight" (Joker REMIX) | AmaLee](https://www.youtube.com/watch?v=ImiDLaTkfEk)
 <!-- YOUTUBE:END -->
+</details>
+
+
