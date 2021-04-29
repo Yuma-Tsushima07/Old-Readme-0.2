@@ -150,7 +150,7 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
-- [Attack on Titan - "Shock" English Ver | AmaLee](https://www.youtube.com/watch?v=m8s0Qp64uM4)
+- [Attack on Titan - "Shock" | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=m8s0Qp64uM4)
 - [Demon Slayer - "Gurenge" REMIX | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=IMqhGocGRRQ)
 - [Aldnoah.Zero - "aLIEz" REMIX | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=f4lvibJnJiA)
 - [Evangelion 3.0+1.0 - "One Last Kiss" | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=Z5_p6ZnEfLE)
