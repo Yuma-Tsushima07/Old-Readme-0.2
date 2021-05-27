@@ -128,9 +128,9 @@ const Yuma-Tsushima = {
    
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/DonIsCoding/A.R.S.C.H./issues/12) in [DonIsCoding/A.R.S.C.H.](https://github.com/DonIsCoding/A.R.S.C.H.)
-2. ❗️ Opened issue [#3](https://github.com/som-cs/reddit-and-imgur/issues/3) in [som-cs/reddit-and-imgur](https://github.com/som-cs/reddit-and-imgur)
-3. ❗️ Opened issue [#2](https://github.com/som-cs/reddit-and-imgur/issues/2) in [som-cs/reddit-and-imgur](https://github.com/som-cs/reddit-and-imgur)
+1. 🎉 Merged PR [#1](https://github.com/Yuma-Tsushima07/anilewd-npm/pull/1) in [Yuma-Tsushima07/anilewd-npm](https://github.com/Yuma-Tsushima07/anilewd-npm)
+2. 💪 Opened PR [#1](https://github.com/Yuma-Tsushima07/anilewd-npm/pull/1) in [Yuma-Tsushima07/anilewd-npm](https://github.com/Yuma-Tsushima07/anilewd-npm)
+3. ❗️ Opened issue [#12](https://github.com/DonIsCoding/A.R.S.C.H./issues/12) in [DonIsCoding/A.R.S.C.H.](https://github.com/DonIsCoding/A.R.S.C.H.)
 4. ❗️ Opened issue [#1](https://github.com/som-cs/reddit-and-imgur/issues/1) in [som-cs/reddit-and-imgur](https://github.com/som-cs/reddit-and-imgur)
 5. ❗️ Opened issue [#1](https://github.com/som-cs/discord_ascii_master/issues/1) in [som-cs/discord_ascii_master](https://github.com/som-cs/discord_ascii_master)
   <!--END_SECTION:activity-->
