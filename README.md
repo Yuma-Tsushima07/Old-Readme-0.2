@@ -150,11 +150,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [Fate/stay Night - "Brave Shine" REMIX | ENGLISH ver | AmaLee](https://www.youtube.com/watch?v=JuwerdYxuYA)
 - [NEW ALBUM ⭐️ “EQUIVALENCE” ⭐️ Limited Time PHYSICAL CDs (SIGNED!)](https://www.youtube.com/watch?v=61XiagHDzfk)
 - [Hazbin Hotel - "Inside of Every Demon Is a Rainbow" REMIX | AmaLee Ver](https://www.youtube.com/watch?v=Fp7_jPc3gtk)
 - [Tokyo Ghoul - "Unravel" REMIX | English Ver | AmaLee](https://www.youtube.com/watch?v=FjeRZkxtjfY)
 - ["summertime" | cinnamons × evening cinema | English Ver | AmaLee](https://www.youtube.com/watch?v=rrP1M5RPC3c)
-- [Attack on Titan - "Shock" | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=m8s0Qp64uM4)
 <!-- YOUTUBE:END -->
 </details>
 
