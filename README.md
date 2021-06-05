@@ -52,11 +52,12 @@
 ### Languages
 
 <b> Frequently used languages and frameworks :</b> <br>
-❯ JavaScript (Node.js, React.js (Learning)) <br>
+❯ JavaScript (Node.js, React.js, Express.js, Next.js) <br>
 ❯ Python (Discord.py) <br>
 ❯ HTML <br>
 ❯ CSS <br>
 ❯ Git CLI <br>
+❯ PHP <br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/>
