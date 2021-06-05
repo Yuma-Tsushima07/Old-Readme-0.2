@@ -73,17 +73,22 @@
 
 ---
 
+### Finished Projects
+❯ Python101 Writeup <br>
+❯ Board Games <br>
+
+
 ### Upcoming Projects
 
 <b> Some exciting  projects: </b> <br>
 ❯ {CyberArtByte} Discord Bot <br>
 ❯ Code Geass <br>
 ❯ Hacker101 Writeup <br>
-❯ Python101 Writeup <br>
 ❯ {CyberArtByte} Website <br>
 ❯ Writeup Blogs <br>
-❯ Board Games <br>
-❯ Game Development <br>
+
+
+
 
 ---
 
