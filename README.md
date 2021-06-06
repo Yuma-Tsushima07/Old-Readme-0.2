@@ -156,7 +156,7 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
-- [6 DAYS!!! 💙 Livestream ALBUM Signing 💙](https://www.youtube.com/watch?v=HScQPs89KsM)
+- [LIVESTREAM 💙 6 DAYS!!! 💙 Livestream ALBUM Signing 💙](https://www.youtube.com/watch?v=HScQPs89KsM)
 - [Attack on Titan - "Call of Silence" | AmaLee Ver](https://www.youtube.com/watch?v=Gcos-VJLfPU)
 - [Fate/stay Night - "Brave Shine" REMIX | ENGLISH ver | AmaLee](https://www.youtube.com/watch?v=JuwerdYxuYA)
 - [NEW ALBUM ⭐️ “EQUIVALENCE” ⭐️ Limited Time PHYSICAL CDs (SIGNED!)](https://www.youtube.com/watch?v=61XiagHDzfk)
