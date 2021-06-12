@@ -156,11 +156,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [LIVESTREAM ✨Signing my new album LIVE!!](https://www.youtube.com/watch?v=DQsxYt45Cnw)
 - [Evangelion - "Cruel Angel's Thesis" REMIX | English Ver | AmaLee](https://www.youtube.com/watch?v=Cx9VmxmCnv4)
 - [LIVESTREAM 6/11 💙 3 DAYS!!! 💙 Livestream ALBUM Signing 💙](https://www.youtube.com/watch?v=HScQPs89KsM)
 - [Attack on Titan - "Call of Silence" | AmaLee Ver](https://www.youtube.com/watch?v=Gcos-VJLfPU)
 - [Fate/stay Night - "Brave Shine" REMIX | ENGLISH ver | AmaLee](https://www.youtube.com/watch?v=JuwerdYxuYA)
-- [NEW ALBUM ⭐️ “EQUIVALENCE” ⭐️ Limited Time PHYSICAL CDs (SIGNED!)](https://www.youtube.com/watch?v=61XiagHDzfk)
 <!-- YOUTUBE:END -->
 </details>
 
