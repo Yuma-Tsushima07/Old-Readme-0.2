@@ -46,15 +46,8 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@0xv37r1x3r/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@0xv37r1x3r/0" alt="Recent Article 0"> 
  
 ---
+
  
-
-<p align="center">
-  <img src="test.gif" />
-</p>
-
----
-
-
 ### Languages
 
 <b> Frequently used languages and frameworks :</b> <br>
@@ -76,6 +69,12 @@
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yuma-Tsushima07&show_icons=true&theme=dark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuma-Tsushima07&theme=dark" />
+</p>
+
+---
+ 
+ <p align="center">
+  <img src="test.gif" />
 </p>
 
 ---
