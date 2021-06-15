@@ -42,6 +42,11 @@
 ❯ Discord : [{CyberArtByte}](https://discord.gg/mNAWykv67W)  <br>
 ❯ Artwork : [YumaArts07](https://medibang.com/u/YumaArts07/) <br>
 
+<b>Recent Medium Posts: </b> <br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@0xv37r1x3r/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@0xv37r1x3r/0" alt="Recent Article 0"> 
+ 
+---
+
 <p align="center">
   <img src="test.gif" />
 </p>
