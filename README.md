@@ -161,11 +161,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [Fullmetal Alchemist: Brotherhood - "Shunkan Sentimental" | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=aI0XVHNrpEg)
 - [New Album 🚨 OUT NOW 🚨 (ALL 18 FMA OPENINGS + ENDINGS)](https://www.youtube.com/watch?v=DPGzZa-eLf8)
 - [LIVESTREAM (Day 2) ✨Signing my new album LIVE!!](https://www.youtube.com/watch?v=v-oruaOA5GE)
 - [LIVESTREAM ✨Signing my new album LIVE!!](https://www.youtube.com/watch?v=DQsxYt45Cnw)
 - [Evangelion - "Cruel Angel's Thesis" REMIX | English Ver | AmaLee](https://www.youtube.com/watch?v=Cx9VmxmCnv4)
-- [LIVESTREAM 6/11 💙 3 DAYS!!! 💙 Livestream ALBUM Signing 💙](https://www.youtube.com/watch?v=HScQPs89KsM)
 <!-- YOUTUBE:END -->
 </details>
 
