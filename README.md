@@ -40,7 +40,7 @@
 <b> Check out my work!: </b> <br>
 ❯ Soundcloud : [0c7av3h4ck5](https://soundcloud.com/0c7av3h4ck5) <br>
 ❯ Discord : [{CyberArtByte}](https://discord.gg/mNAWykv67W)  <br>
-❯ Artwork : [YumaArts07](https://medibang.com/u/YumaArts07/) <br>
+❯ Artwork : [AcceleratorArts07](https://medibang.com/u/AcceleratorArts07/) <br>
 
 <b>Recent Medium Posts: </b> <br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@0xv37r1x3r/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@0xv37r1x3r/0" alt="Recent Article 0"> 
