@@ -71,13 +71,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuma-Tsushima07&theme=dark" />
 </p>
 
----
- 
- <p align="center">
-  <img src="test.gif" />
-</p>
 
----
 
 ### Finished Projects
 ❯ Python101 Writeup <br>
