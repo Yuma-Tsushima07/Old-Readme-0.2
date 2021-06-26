@@ -43,7 +43,7 @@
 ❯ Artwork : [AcceleratorArts07](https://medibang.com/u/AcceleratorArts07/) <br>
 
 <b>Recent Medium Posts: </b> <br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@0xv37r1x3r/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@0xv37r1x3r/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@0xv37r1x3r/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@0xv37r1x3r/0" alt="Recent Article 0"> </a>
  
 ---
 
@@ -124,6 +124,7 @@ const Yuma-Tsushima = {
  
 
 <div align="left">
+ 
 <details>
   <summary><b>Github Statistics</b></summary>
    
