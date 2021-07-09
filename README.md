@@ -135,10 +135,10 @@ const Yuma-Tsushima = {
   
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14183](https://github.com/forem/forem/issues/14183) in [forem/forem](https://github.com/forem/forem)
-2. ❗️ Opened issue [#14183](https://github.com/forem/forem/issues/14183) in [forem/forem](https://github.com/forem/forem)
-3. 🎉 Merged PR [#1](https://github.com/Yuma-Tsushima07/anilewd-npm/pull/1) in [Yuma-Tsushima07/anilewd-npm](https://github.com/Yuma-Tsushima07/anilewd-npm)
-4. 💪 Opened PR [#1](https://github.com/Yuma-Tsushima07/anilewd-npm/pull/1) in [Yuma-Tsushima07/anilewd-npm](https://github.com/Yuma-Tsushima07/anilewd-npm)
-5. ❗️ Opened issue [#1](https://github.com/som-cs/discord_ascii_master/issues/1) in [som-cs/discord_ascii_master](https://github.com/som-cs/discord_ascii_master)
+2. 🗣 Commented on [#14183](https://github.com/forem/forem/issues/14183) in [forem/forem](https://github.com/forem/forem)
+3. ❗️ Opened issue [#14183](https://github.com/forem/forem/issues/14183) in [forem/forem](https://github.com/forem/forem)
+4. 🎉 Merged PR [#1](https://github.com/Yuma-Tsushima07/anilewd-npm/pull/1) in [Yuma-Tsushima07/anilewd-npm](https://github.com/Yuma-Tsushima07/anilewd-npm)
+5. 💪 Opened PR [#1](https://github.com/Yuma-Tsushima07/anilewd-npm/pull/1) in [Yuma-Tsushima07/anilewd-npm](https://github.com/Yuma-Tsushima07/anilewd-npm)
   <!--END_SECTION:activity-->
   
 </details>
