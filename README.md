@@ -151,6 +151,13 @@ const Yuma-Tsushima = {
   
 [![Spotify](https://novatorem-git-master.yuma-tsushima07.vercel.app//api/spotify)](https://open.spotify.com/user/Yuma-Tsushima07)
 </details>
+ 
+   <details>
+  <summary> <u><b> Discord </u></b> </summary>
+<a href="https://discord.com/users/412641051824750611">
+<img height="80px" src="https://discord.c99.nl/widget/theme-3/412641051824750611.png">
+</a>
+</details>
 
 <details>
   <summary> <u><b> Recommended Music </u></b> </summary>
@@ -164,4 +171,6 @@ const Yuma-Tsushima = {
 <!-- YOUTUBE:END -->
 </details>
 
+ 
+ 
 
