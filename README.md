@@ -134,11 +134,11 @@ const Yuma-Tsushima = {
    
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14183](https://github.com/forem/forem/issues/14183) in [forem/forem](https://github.com/forem/forem)
-2. 🗣 Commented on [#14183](https://github.com/forem/forem/issues/14183) in [forem/forem](https://github.com/forem/forem)
+1. 🗣 Commented on [#1](https://github.com/7h3-B14ck-Kn1gh75/Public-Writeups/issues/1) in [7h3-B14ck-Kn1gh75/Public-Writeups](https://github.com/7h3-B14ck-Kn1gh75/Public-Writeups)
+2. 🎉 Merged PR [#1](https://github.com/7h3-B14ck-Kn1gh75/Public-Writeups/pull/1) in [7h3-B14ck-Kn1gh75/Public-Writeups](https://github.com/7h3-B14ck-Kn1gh75/Public-Writeups)
 3. 🗣 Commented on [#14183](https://github.com/forem/forem/issues/14183) in [forem/forem](https://github.com/forem/forem)
-4. ❗️ Opened issue [#14183](https://github.com/forem/forem/issues/14183) in [forem/forem](https://github.com/forem/forem)
-5. 🎉 Merged PR [#1](https://github.com/Yuma-Tsushima07/anilewd-npm/pull/1) in [Yuma-Tsushima07/anilewd-npm](https://github.com/Yuma-Tsushima07/anilewd-npm)
+4. 🗣 Commented on [#14183](https://github.com/forem/forem/issues/14183) in [forem/forem](https://github.com/forem/forem)
+5. 🗣 Commented on [#14183](https://github.com/forem/forem/issues/14183) in [forem/forem](https://github.com/forem/forem)
   <!--END_SECTION:activity-->
   
 </details>
