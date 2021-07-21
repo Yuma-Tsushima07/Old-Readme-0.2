@@ -163,11 +163,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [League of Legends - "RISE" | AmaLee (feat. Erica Lindbeck)](https://www.youtube.com/watch?v=Xe0dR6RH7mU)
 - [Fullmetal Alchemist - "Motherland" | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=HdDj94p_1NM)
 - [Fullmetal Alchemist - "Again" | English REMIX | AmaLee](https://www.youtube.com/watch?v=udfJidV9P0I)
 - [JoJo's Bizarre Adventure - "Bloody Stream" | English Ver | AmaLee](https://www.youtube.com/watch?v=nKz8g-_FYAA)
 - [Genshin Impact - "Main Theme" | AmaLee Ver](https://www.youtube.com/watch?v=Iw11n6zVCw8)
-- [Fullmetal Alchemist: Brotherhood - "Shunkan Sentimental" | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=aI0XVHNrpEg)
 <!-- YOUTUBE:END -->
 </details>
 
