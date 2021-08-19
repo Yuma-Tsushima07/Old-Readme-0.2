@@ -163,11 +163,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [Fire Emblem Fates - "Lost in Thoughts All Alone" REMIX | AmaLee](https://www.youtube.com/watch?v=b1DorX9O-BI)
 - [my, it's a pleasure to meet you ~ 🦋✨](https://www.youtube.com/watch?v=v4_aHvngaLE)
 - [Honkai Impact 3rd - "Moon Halo" | AmaLee Ver](https://www.youtube.com/watch?v=lOUYIvruTn4)
 - [Fullmetal Alchemist - "Beyond The Door" / "Tobira no Muko he" | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=KliX7DPqHbo)
 - [Fullmetal Alchemist - "Tsunaida Te" | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=xVmAqVm3a74)
-- [League of Legends - "RISE" | AmaLee (feat. Erica Lindbeck)](https://www.youtube.com/watch?v=Xe0dR6RH7mU)
 <!-- YOUTUBE:END -->
 </details>
 
