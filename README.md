@@ -9,8 +9,7 @@
        </p>
  
 
-   
-[![Support](https://img.shields.io/badge/Support-Buy%20us%20a%20Pizza-orange.svg?style=for-the-badge&logo=patreon)](https://www.patreon.com/Order_of_the_Black_Knights_C2_bot)
+ 
 [![Discord](https://img.shields.io/badge/C2's%20Place-Join%20us%20for%20a%20chat-blue.svg?style=for-the-badge&logo=discord)](https://disboard.org/server/711260885531885648)
 [![Discord](https://img.shields.io/badge/Join%20to%20chat-CyberArtByte-blue.svg?style=for-the-badge&logo=discord)](https://discord.gg/mNAWykv67W)
 [![SoundCloud](https://img.shields.io/badge/Sound-Cloud-red.svg?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/0c7av3h4ck5)
