@@ -162,11 +162,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [Re:Zero - "Styx Helix" | FULL English Ver | AmaLee](https://www.youtube.com/watch?v=1rTEBpz5Rj0)
 - [Fullmetal Alchemist - "Rewrite" ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=CeAUug-FkP4)
 - [Fire Emblem Fates - "Lost in Thoughts All Alone" REMIX | AmaLee](https://www.youtube.com/watch?v=b1DorX9O-BI)
 - [my, it's a pleasure to meet you ~ 🦋✨](https://www.youtube.com/watch?v=v4_aHvngaLE)
 - [Honkai Impact 3rd - "Moon Halo" | AmaLee Ver](https://www.youtube.com/watch?v=lOUYIvruTn4)
-- [Fullmetal Alchemist - "Beyond The Door" / "Tobira no Muko he" | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=KliX7DPqHbo)
 <!-- YOUTUBE:END -->
 </details>
 
