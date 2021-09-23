@@ -162,11 +162,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [Fullmetal Alchemist: Brotherhood - "Ray of Light" | English Ver | AmaLee](https://www.youtube.com/watch?v=MHgnVNmEwDU)
 - [Fullmetal Alchemist - "I Will" | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=z8YzL-Sf_8M)
 - [Fullmetal Alchemist - "USO" | English Ver | AmaLee](https://www.youtube.com/watch?v=fWdRSCdkzRY)
 - [Re:Zero - "Styx Helix" | FULL English Ver | AmaLee](https://www.youtube.com/watch?v=1rTEBpz5Rj0)
 - [Fullmetal Alchemist - "Rewrite" ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=CeAUug-FkP4)
-- [Fire Emblem Fates - "Lost in Thoughts All Alone" REMIX | AmaLee](https://www.youtube.com/watch?v=b1DorX9O-BI)
 <!-- YOUTUBE:END -->
 </details>
 
