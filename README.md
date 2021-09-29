@@ -148,7 +148,7 @@ const Yuma-Tsushima = {
    <details>
   <summary> <u><b> Spotify </u></b> </summary>
   
-[![Spotify](https://novatorem-git-master.yuma-tsushima07.vercel.app//api/spotify)](https://open.spotify.com/user/Yuma-Tsushima07)
+[![Spotify](https://yuma-tsushima07.vercel.app/api/spotify)](https://open.spotify.com/user/Yuma-Tsushima07)
 </details>
  
    <details>
