@@ -163,7 +163,7 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
-- [Cookie Run: Kingdom - "Everything You Need" AmaLee (Official Song)](https://www.youtube.com/watch?v=IEBwtoXrbJQ)
+- [Cookie Run: Kingdom - "EVERYTHING YOU NEED" AmaLee (Official Song)](https://www.youtube.com/watch?v=IEBwtoXrbJQ)
 - [Fullmetal Alchemist - "Undo" | English Ver | AmaLee](https://www.youtube.com/watch?v=xxlFQ5QRI40)
 - [Toilet-bound Hanako-Kun - "No.7" English Ver | AmaLee & Natewantstobattle](https://www.youtube.com/watch?v=P02FnZPKvIQ)
 - [Fullmetal Alchemist: Brotherhood - "Ray of Light" | English Ver | AmaLee](https://www.youtube.com/watch?v=MHgnVNmEwDU)
