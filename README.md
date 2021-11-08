@@ -163,11 +163,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
-- [One Piece - "We Are" | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=xmTHpAbMFb0)
-- [Higurashi - "Flower of Hell" | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=2suu4iS376M)
-- [Steins;Gate - "Hacking to the Gate" | English Ver | AmaLee](https://www.youtube.com/watch?v=WV4KbpaIqoY)
-- [Cookie Run: Kingdom - "EVERYTHING YOU NEED" AmaLee (Official Song)](https://www.youtube.com/watch?v=IEBwtoXrbJQ)
-- [Fullmetal Alchemist - "Undo" | English Ver | AmaLee](https://www.youtube.com/watch?v=xxlFQ5QRI40)
+- [One Piece - &quot;We Are&quot; | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=xmTHpAbMFb0)
+- [Higurashi - &quot;Flower of Hell&quot; | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=2suu4iS376M)
+- [Steins;Gate - &quot;Hacking to the Gate&quot; | English Ver | AmaLee](https://www.youtube.com/watch?v=WV4KbpaIqoY)
+- [Cookie Run: Kingdom - &quot;EVERYTHING YOU NEED&quot; AmaLee &lpar;Official Song&rpar;](https://www.youtube.com/watch?v=IEBwtoXrbJQ)
+- [Fullmetal Alchemist - &quot;Undo&quot; | English Ver | AmaLee](https://www.youtube.com/watch?v=xxlFQ5QRI40)
 <!-- YOUTUBE:END -->
 </details>
 
