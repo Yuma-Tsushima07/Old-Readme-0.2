@@ -163,11 +163,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [Fire Force - &quot;Inferno&quot; | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=uQkz5d6prt4)
 - [Sword Art Online - &quot;Resister&quot; | English Ver | AmaLee](https://www.youtube.com/watch?v=bf7yfo_KnNc)
 - [One Piece - &quot;We Are&quot; | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=xmTHpAbMFb0)
 - [Higurashi - &quot;Flower of Hell&quot; | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=2suu4iS376M)
 - [Steins;Gate - &quot;Hacking to the Gate&quot; | English Ver | AmaLee](https://www.youtube.com/watch?v=WV4KbpaIqoY)
-- [Cookie Run: Kingdom - &quot;EVERYTHING YOU NEED&quot; AmaLee &lpar;Official Song&rpar;](https://www.youtube.com/watch?v=IEBwtoXrbJQ)
 <!-- YOUTUBE:END -->
 </details>
 
