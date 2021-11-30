@@ -163,7 +163,7 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
-- [12.11.2021 🦋 5pm pst / 8pm est](https://www.youtube.com/watch?v=YbA5waNL0OA)
+- [Vtuber debut 🦋 12.11.2021 🦋 5pm pst / 8pm est](https://www.youtube.com/watch?v=YbA5waNL0OA)
 - [Fire Force - &quot;Inferno&quot; | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=uQkz5d6prt4)
 - [Sword Art Online - &quot;Resister&quot; | English Ver | AmaLee](https://www.youtube.com/watch?v=bf7yfo_KnNc)
 - [One Piece - &quot;We Are&quot; | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=xmTHpAbMFb0)
