@@ -163,11 +163,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [Scene 3/5.... 3 days remain 🦋](https://www.youtube.com/watch?v=V5HxBmzkr00)
 - [Scene 2/5.... 4 days remain 🦋](https://www.youtube.com/watch?v=f27CAdFMlNQ)
 - [Scene 1/5.... 5 days remain 🦋](https://www.youtube.com/watch?v=nBG1RPMxhBE)
 - [1 week .....🦋](https://www.youtube.com/watch?v=AzLC2dYwBqM)
 - [Vtuber debut 🦋 12.11.2021 🦋 5pm pst / 8pm est](https://www.youtube.com/watch?v=YbA5waNL0OA)
-- [Fire Force - &quot;Inferno&quot; | ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=uQkz5d6prt4)
 <!-- YOUTUBE:END -->
 </details>
 
