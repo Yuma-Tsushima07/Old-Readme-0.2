@@ -163,11 +163,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [Scene 4/5.... 2 days remain 🦋 &lpar;VTUBER DEBUT&rpar;](https://www.youtube.com/watch?v=c0rxflaSY-k)
 - [Scene 3/5.... 3 days remain 🦋](https://www.youtube.com/watch?v=V5HxBmzkr00)
 - [Scene 2/5.... 4 days remain 🦋](https://www.youtube.com/watch?v=f27CAdFMlNQ)
 - [Scene 1/5.... 5 days remain 🦋](https://www.youtube.com/watch?v=nBG1RPMxhBE)
 - [1 week .....🦋](https://www.youtube.com/watch?v=AzLC2dYwBqM)
-- [Vtuber debut 🦋 12.11.2021 🦋 5pm pst / 8pm est](https://www.youtube.com/watch?v=YbA5waNL0OA)
 <!-- YOUTUBE:END -->
 </details>
 
