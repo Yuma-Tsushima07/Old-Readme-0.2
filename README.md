@@ -163,11 +163,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [【Vtuber Lore】Multiverse Monarch | &quot;And so, my work begins..&quot;](https://www.youtube.com/watch?v=TZZNBKEjdK0)
 - [ORIGINAL DEBUT ALBUM 🦋 Pre-Order / Pre-Save now!](https://www.youtube.com/watch?v=Buj-aftJoZ0)
 - [Vtuber Debut ... Tomorrow 🦋 5pm pst &lpar;link below&rpar;](https://www.youtube.com/watch?v=A57-xBnv3kQ)
 - [Scene 4/5.... 2 days remain 🦋 &lpar;VTUBER DEBUT&rpar;](https://www.youtube.com/watch?v=c0rxflaSY-k)
 - [Scene 3/5.... 3 days remain 🦋](https://www.youtube.com/watch?v=V5HxBmzkr00)
-- [Scene 2/5.... 4 days remain 🦋](https://www.youtube.com/watch?v=f27CAdFMlNQ)
 <!-- YOUTUBE:END -->
 </details>
 
