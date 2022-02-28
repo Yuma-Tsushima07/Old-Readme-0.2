@@ -163,7 +163,7 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
-- [Honkai Impact 3rd - &quot;Oath Oracle&quot; | AmaLee Ver](https://www.youtube.com/watch?v=mIj7A-awLhY)
+- [Honkai Impact 3rd - &quot;Oath Oracle&quot; Oracloath | AmaLee Ver](https://www.youtube.com/watch?v=mIj7A-awLhY)
 - [Phantom Breaker Omnia &quot;Let it All Burn&quot; Official Opening by AmaLee](https://www.youtube.com/watch?v=Z8csR3LBkR4)
 - [【Vtuber Lore】Multiverse Monarch | &quot;And so, my work begins..&quot; 🦋](https://www.youtube.com/watch?v=TZZNBKEjdK0)
 - [ORIGINAL DEBUT ALBUM 🦋 Pre-Order / Pre-Save now!](https://www.youtube.com/watch?v=Buj-aftJoZ0)
