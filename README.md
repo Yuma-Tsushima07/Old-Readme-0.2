@@ -163,11 +163,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [Bunny Girl Senpai - &quot;Fukashigi no Karte&quot; ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=CUez4Sv0t7A)
 - [Honkai Impact 3rd - &quot;Oath Oracle&quot; Oracloath | AmaLee Ver](https://www.youtube.com/watch?v=mIj7A-awLhY)
 - [Phantom Breaker Omnia &quot;Let it All Burn&quot; Official Opening by AmaLee](https://www.youtube.com/watch?v=Z8csR3LBkR4)
 - [【Vtuber Lore】Multiverse Monarch | &quot;And so, my work begins..&quot; 🦋](https://www.youtube.com/watch?v=TZZNBKEjdK0)
 - [ORIGINAL DEBUT ALBUM 🦋 Pre-Order / Pre-Save now!](https://www.youtube.com/watch?v=Buj-aftJoZ0)
-- [Vtuber Debut ... Tomorrow 🦋 5pm pst &lpar;link below&rpar;](https://www.youtube.com/watch?v=A57-xBnv3kQ)
 <!-- YOUTUBE:END -->
 </details>
 
