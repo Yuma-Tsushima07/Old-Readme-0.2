@@ -163,11 +163,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [[Original Album] &quot;Rise of the Monarch&quot; 🦋 OUT JUNE 24th | Song Previews Crossfade](https://www.youtube.com/watch?v=Onj3mRyngq4)
 - [What are my Twitch streams like? Glad you asked](https://www.youtube.com/watch?v=JaUJHaxB58k)
 - [Arcane/League of Legends - &quot;Enemy&quot; &lpar;Jinx Ver&rpar;  | AmaLee Ver](https://www.youtube.com/watch?v=zvyxymKjIjA)
 - [Bunny Girl Senpai - &quot;Fukashigi no Karte&quot; ENGLISH Ver | AmaLee](https://www.youtube.com/watch?v=CUez4Sv0t7A)
 - [Honkai Impact 3rd - &quot;Oath Oracle&quot; Oracloath | AmaLee Ver](https://www.youtube.com/watch?v=mIj7A-awLhY)
-- [Phantom Breaker Omnia &quot;Let it All Burn&quot; Official Opening by AmaLee](https://www.youtube.com/watch?v=Z8csR3LBkR4)
 <!-- YOUTUBE:END -->
 </details>
 
