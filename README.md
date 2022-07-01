@@ -163,11 +163,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [🦋 VILLAIN VIBES COVER CONTEST!! 🦋](https://www.youtube.com/watch?v=g228U0OdPWI)
 - [Villain Vibes feat. Mori Calliope &lpar;original song&rpar; #shorts](https://www.youtube.com/watch?v=c0VN13apH9Y)
 - [[ORIGINAL SONG] Villain Vibes feat. Mori Calliope | AmaLee](https://www.youtube.com/watch?v=kFaie-Tp1Jw)
 - [OUT NOW - &quot;Rise of the Monarch&quot; 🦋【Debut Original Album】Song Previews](https://www.youtube.com/watch?v=mw9DPEBHmt8)
 - [【Original Album】&quot;Rise of the Monarch&quot; 🦋 OUT JUNE 24th | Song Previews Crossfade](https://www.youtube.com/watch?v=Onj3mRyngq4)
-- [What are my Twitch streams like? Glad you asked](https://www.youtube.com/watch?v=JaUJHaxB58k)
 <!-- YOUTUBE:END -->
 </details>
 
