@@ -163,11 +163,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [【MERCH STORE】Drops Friday! 🦋 OFFICIAL MONARCH MERCH 🦋](https://www.youtube.com/watch?v=yq6z_FBJbAI)
 - [[ORIGINAL] From The Embers | AmaLee](https://www.youtube.com/watch?v=y3TdeNWwniQ)
 - [🦋 VILLAIN VIBES COVER CONTEST!! 🦋](https://www.youtube.com/watch?v=g228U0OdPWI)
 - [Villain Vibes feat. Mori Calliope &lpar;original song&rpar; #shorts](https://www.youtube.com/watch?v=c0VN13apH9Y)
 - [[ORIGINAL] Villain Vibes feat. Mori Calliope | AmaLee](https://www.youtube.com/watch?v=kFaie-Tp1Jw)
-- [OUT NOW - &quot;Rise of the Monarch&quot; 🦋【Debut Original Album】Song Previews](https://www.youtube.com/watch?v=mw9DPEBHmt8)
 <!-- YOUTUBE:END -->
 </details>
 
