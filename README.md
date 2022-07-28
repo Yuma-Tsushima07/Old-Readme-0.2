@@ -163,11 +163,11 @@ const Yuma-Tsushima = {
   <summary> <u><b> Recommended Music </u></b> </summary>
  
  <!-- YOUTUBE:START -->
+- [[ORIGINAL SONG] Drink Your Light | AmaLee](https://www.youtube.com/watch?v=QbAOizRHKxs)
 - [【MERCH STORE】OUT NOW!! 🦋 OFFICIAL MONARCH MERCH 🦋](https://www.youtube.com/watch?v=zoX5ZKDuM60)
 - [[ORIGINAL] From The Embers | AmaLee](https://www.youtube.com/watch?v=y3TdeNWwniQ)
 - [🦋 VILLAIN VIBES COVER CONTEST!! 🦋](https://www.youtube.com/watch?v=g228U0OdPWI)
 - [Villain Vibes feat. Mori Calliope &lpar;original song&rpar; #shorts](https://www.youtube.com/watch?v=c0VN13apH9Y)
-- [[ORIGINAL] Villain Vibes feat. Mori Calliope | AmaLee](https://www.youtube.com/watch?v=kFaie-Tp1Jw)
 <!-- YOUTUBE:END -->
 </details>
 
